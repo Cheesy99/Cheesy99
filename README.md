@@ -22,7 +22,7 @@ I'm Tobias Chisi, a passionate student currently in my 5th semester pursuing a b
 
 🌟 **Connect with Me:**
 - 📧 Email: tobias.chisi@gmail.com
-### Languages
+ **Languages**
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
