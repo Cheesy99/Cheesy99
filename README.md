@@ -4,11 +4,6 @@
 
 I'm Tobias Chisi, a passionate student currently in my 5th semester pursuing a bachelor's degree in Computer Science at Philips University in Marburg, Germany. Originally from Germany, I had the unique experience of being raised in the beautiful landscapes of Malawi.
 
-🌱 **About Me:**
-- 🔍 I'm diving deep into the world of Big Data Analysis, exploring the vast realms of data to uncover meaningful insights.
-- 🤖 Machine Learning and Data Science enthusiast, always eager to explore the latest trends and advancements in these fields.
-- ☕ Java is my go-to language, but I can't deny the allure of Python for its versatility and ease of use.
-
 🚀 **Current Focus:**
 - 📊 Big Data Analysis: Unleashing the power of data to drive informed decisions.
 - 🤖 Machine Learning: Building intelligent systems that learn and adapt.
@@ -27,7 +22,7 @@ I'm Tobias Chisi, a passionate student currently in my 5th semester pursuing a b
 
 🌟 **Connect with Me:**
 - 📧 Email: tobias.chisi@gmail.com
--
+
 <!--
 **Cheesy99/Cheesy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
