@@ -22,7 +22,9 @@ I'm Tobias Chisi, a passionate student currently in my 5th semester pursuing a b
 
 🌟 **Connect with Me:**
 - 📧 Email: tobias.chisi@gmail.com
-
+### Languages
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+          "
 <!--
 **Cheesy99/Cheesy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
