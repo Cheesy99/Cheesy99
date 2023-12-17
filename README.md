@@ -34,4 +34,4 @@ I'm Tobias Chisi, a passionate student currently in my 5th semester pursuing a b
 
 My stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheesy99)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheesy99&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=242424)](https://github.com/anuraghazra/github-readme-stats)
