@@ -19,7 +19,7 @@ I'm Tobias Chisi, a passionate student currently pursuing my **master’s degree
 - 🐍 Python, for its versatility in handling various aspects of data science and machine learning.
 
 📆 **Age:**
-- 2️⃣5️⃣ years young, embracing the journey of learning and growth.
+- 27 years young, embracing the journey of learning and growth.
 
 🌟 **Connect with Me:**
 - 📧 Email: tobias.chisi@gmail.com
