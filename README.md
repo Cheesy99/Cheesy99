@@ -14,10 +14,6 @@ I'm Tobias Chisi, a passionate student currently pursuing my **master’s degree
 - 🇩🇪 German by origin, with a unique upbringing in Malawi, blending diverse perspectives.
 - 📚 Started with an economic focus and transitioned to Computer Science, yet my interest in economic change remains.
 
-👨‍💻 **Tech Stack:**
-- 💻 Java, because there's nothing like the elegance of a well-crafted Java program.
-- 🐍 Python, for its versatility in handling various aspects of data science and machine learning.
-
 📆 **Age:**
 - 27 years young, embracing the journey of learning and growth.
 
